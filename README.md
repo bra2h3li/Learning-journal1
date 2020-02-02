@@ -8,7 +8,7 @@
 # **2.What’s the best way to get started with your growth mindset revolution?**
 One way is to identify where you may have fixed mindset tendencies so that you can work to become more growth minded. We all live upon a continuum, and consistent **self-assessment** helps us become the person we want to be.
 
-## This **video** is _helpful_ 
+### This **video** is _helpful_ 
 follow the **Link** :
 
 [Growth mindest video](https://www.youtube.com/watch?v=M1CHPnZfFmU)
