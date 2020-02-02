@@ -9,7 +9,7 @@
 
 ##This **video** will help you more to Understand _**Growth Mindest**_ :
 
-![GitHub](https://www.youtube.com/watch?v=M1CHPnZfFmU)
+[GitHub](https://www.youtube.com/watch?v=M1CHPnZfFmU)
 
 
 
