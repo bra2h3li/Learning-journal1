@@ -1,12 +1,12 @@
 ## Welcome to GitHub Pages
 # Codding Course
 ## **1. What is growth mindset?**
-### When students _believe_ they can get smarter, they understand that _effort_ makes them **stronger**. Therefore they put in extra time and effort, and that leads to higher achievement.
+ When students _believe_ they can get smarter, they understand that _effort_ makes them **stronger**. Therefore they put in extra time and effort, and that leads to higher achievement.
 
 ![GitHub Logo](https://www.mindsetworks.com/Assets/images/science/the-science/the-growth-mindset-i-can-get-smarter-large.jpg)
 
 # **2.What’s the best way to get started with your growth mindset revolution?**
-### One way is to identify where you may have fixed mindset tendencies so that you can work to become more growth minded. We all live upon a continuum, and consistent **self-assessment** helps us become the person we want to be.
+One way is to identify where you may have fixed mindset tendencies so that you can work to become more growth minded. We all live upon a continuum, and consistent **self-assessment** helps us become the person we want to be.
 
 ## This **video** is _helpful_ 
 follow the **Link** :
