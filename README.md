@@ -1,7 +1,6 @@
 ## Welcome to GitHub Pages
 # _Growth Mindest_
-## **1. What is growth mindset?**
- When students _believe_ they can get smarter, they understand that _effort_ makes them **stronger**. Therefore they put in extra time and effort, and that leads to higher achievement.
+when students believe  they can get smarter, they understand that _**effort**_ makes them stronger. Therefore they put in extra time and effort, and that leads to higher achievement.
 
 ![GitHub Logo](https://www.mindsetworks.com/Assets/images/science/the-science/the-growth-mindset-i-can-get-smarter-large.jpg)
 
