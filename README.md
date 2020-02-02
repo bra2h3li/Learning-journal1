@@ -3,6 +3,8 @@
 
 ###When students _believe_ they can get smarter, they understand that _effort_ makes them **stronger**. Therefore they put in extra time and effort, and that leads to higher achievement.
 
+!image (https://www.mindsetworks.com/Assets/images/science/the-science/the-growth-mindset-i-can-get-smarter-large.jpg)
+
 
 You can use the [editor on GitHub](https://github.com/bra2h3li/coddingCourse/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
