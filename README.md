@@ -7,7 +7,7 @@
 
 ###**What’s the best way to get started with your growth mindset revolution?** One way is to identify where you may have fixed mindset tendencies so that you can work to become more growth minded. We all live upon a continuum, and consistent self-assessment helps us become the person we want to be.
 
-https://www.youtube.com/watch?v=M1CHPnZfFmU - automatic!
+https://www.youtube.com/watch?v=M1CHPnZfFmU 
 
 
 You can use the [editor on GitHub](https://github.com/bra2h3li/coddingCourse/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
