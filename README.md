@@ -1,5 +1,5 @@
 ## Welcome to GitHub Pages
-# coddingCourse
+# Codding Course
 
 ### When students _believe_ they can get smarter, they understand that _effort_ makes them **stronger**. Therefore they put in extra time and effort, and that leads to higher achievement.
 
