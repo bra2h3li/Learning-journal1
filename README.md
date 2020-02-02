@@ -1,5 +1,9 @@
 ## Welcome to GitHub Pages
 #coddingCourse
+
+###When students _believe_ they can get smarter, they understand that _effort_ makes them **stronger**. Therefore they put in extra time and effort, and that leads to higher achievement.
+
+
 You can use the [editor on GitHub](https://github.com/bra2h3li/coddingCourse/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
