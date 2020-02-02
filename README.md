@@ -3,7 +3,9 @@
 
 ###When students _believe_ they can get smarter, they understand that _effort_ makes them **stronger**. Therefore they put in extra time and effort, and that leads to higher achievement.
 
-![GitHub Logo] (https://www.mindsetworks.com/Assets/images/science/the-science/the-growth-mindset-i-can-get-smarter-large.jpg)
+![GitHub Logo](https://www.mindsetworks.com/Assets/images/science/the-science/the-growth-mindset-i-can-get-smarter-large.jpg)
+
+###**What’s the best way to get started with your growth mindset revolution?** One way is to identify where you may have fixed mindset tendencies so that you can work to become more growth minded. We all live upon a continuum, and consistent self-assessment helps us become the person we want to be.
 
 
 You can use the [editor on GitHub](https://github.com/bra2h3li/coddingCourse/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
