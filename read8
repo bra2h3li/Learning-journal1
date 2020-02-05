@@ -1,0 +1,48 @@
+Functions allow you to group a set of related
+statements together that represent a single task also can take the information or change the value .
+
+- an object is a series of variables and function 
+that presents somthing.
+
+-JavaScripts has several objects such as : String,Number,Math and date.
+- Web browser implement objects can be used to create complex data sets.
+
+- A conditinal statments says what to do in a given situation, it based in a consepts(if,else,then)
+example:
+if (mark>50){
+Write ("you Passed");
+}  else
+{ write ("you fail");
+}
+
+ 
+
+- Evaluation of condition :
+comparing between two values using a comparison operator  which returns a value of true or fulse.
+- you can also multiple conditions by combining two or more comparision operators.
+- the result will be bolean ( true or false).
+
+(==) is equal to
+this operator compares two values ( number,strings or bolean).
+'hello'=='good bye'
+the result is false 
+ 'hello'=='hello'
+ this is true because they are the same.
+ 
+(!=) is not equal to
+
+'hello'!='good bye'
+the result is true 
+ 'hello'!='hello'
+ this is false because they are the same.
+ 
+ (===) strict equal to
+ 
+
+
+
+
+
+
+
+
